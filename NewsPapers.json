@@ -1,0 +1,19 @@
+{
+    "cnn": {
+        "link": "http://edition.cnn.com/"
+    },
+    "bbc": {
+        "rss": "http://feeds.bbci.co.uk/news/rss.xml",
+        "link": "http://www.bbc.com/"
+    },
+    "breitbart": {
+        "link": "http://www.breitbart.com/"
+    },
+    "infowars": {
+        "link": "https://www.infowars.com/"
+    },
+    "washingtonpost": {
+        "rss": "http://feeds.washingtonpost.com/rss/world",
+        "link": "https://www.washingtonpost.com/"
+    }
+}
